@@ -1,4 +1,4 @@
-# Ahora en ¡GitHub!
+# Ahora en ¡GitHub! :3
 # Nombre del directorio Log
 $script_job = "MantenimientoDiarioDC1"
 $wdir = "$env:USERPROFILE\Documents\$script_job"
